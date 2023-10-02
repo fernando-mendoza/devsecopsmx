@@ -42,8 +42,8 @@ export default function Features() {
             {/* Content */}
             <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6 md:mt-6" data-aos="fade-right">
               <div className="md:pr-4 lg:pr-12 xl:pr-16 mb-8">
-                <h3 className="h3 mb-3">Powerful suite of tools</h3>
-                <p className="text-xl text-gray-600">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa.</p>
+                <h3 className="h3 mb-3">Donde la seguridad se convierte en una aliada del desarrollo, acelerando la innovación y protegiendo tus activos digitales...</h3>
+                <p className="text-xl text-gray-600">DevSecOps no solo fortalece la seguridad de las aplicaciones, sino que también impulsa la eficiencia operativa y promueve una cultura de colaboración y mejora continua en toda la organización, lo que puede tener un impacto positivo en la competitividad y el éxito a largo plazo.</p>
               </div>
               {/* Tabs buttons */}
               <div className="mb-8 md:mb-0">
@@ -53,8 +53,8 @@ export default function Features() {
                   onClick={(e) => { e.preventDefault(); setTab(1); }}
                 >
                   <div>
-                    <div className="font-bold leading-snug tracking-tight mb-1">Building the Simple ecosystem</div>
-                    <div className="text-gray-600">Take collaboration to the next level with security and administrative features built for teams.</div>
+                    <div className="font-bold leading-snug tracking-tight mb-1">Mejora de la Seguridad de las Aplicaciones</div>
+                    <div className="text-gray-600">Al integrar la seguridad desde las primeras etapas del desarrollo, se identifican y corrigen proactivamente las vulnerabilidades de seguridad.</div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
                     <svg className="w-3 h-3 fill-current" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
@@ -68,8 +68,8 @@ export default function Features() {
                   onClick={(e) => { e.preventDefault(); setTab(2); }}
                 >
                   <div>
-                    <div className="font-bold leading-snug tracking-tight mb-1">Building the Simple ecosystem</div>
-                    <div className="text-gray-600">Take collaboration to the next level with security and administrative features built for teams.</div>
+                    <div className="font-bold leading-snug tracking-tight mb-1">Entregas más Rápidas y Eficientes</div>
+                    <div className="text-gray-600">La automatización de pruebas, compilaciones y despliegues permite liberar software de alta calidad de manera más rápida, lo que se traduce en una ventaja competitiva y una mayor satisfacción del cliente.</div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
                     <svg className="w-3 h-3 fill-current" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
@@ -83,8 +83,8 @@ export default function Features() {
                   onClick={(e) => { e.preventDefault(); setTab(3); }}
                 >
                   <div>
-                    <div className="font-bold leading-snug tracking-tight mb-1">Building the Simple ecosystem</div>
-                    <div className="text-gray-600">Take collaboration to the next level with security and administrative features built for teams.</div>
+                    <div className="font-bold leading-snug tracking-tight mb-1">Cultura de Colaboración y Mejora Continua</div>
+                    <div className="text-gray-600">Promueve la mejora continua al permitir que los equipos aprendan de las experiencias anteriores y adapten sus prácticas y procesos. Esto crea un ambiente propicio para la innovación y el crecimiento sostenible de la organización..</div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
                     <svg className="w-3 h-3 fill-current" viewBox="0 0 12 12" xmlns="http://www.w3.org/2000/svg">
