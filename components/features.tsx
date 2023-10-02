@@ -42,8 +42,8 @@ export default function Features() {
             {/* Content */}
             <div className="max-w-xl md:max-w-none md:w-full mx-auto md:col-span-7 lg:col-span-6 md:mt-6" data-aos="fade-right">
               <div className="md:pr-4 lg:pr-12 xl:pr-16 mb-8">
-                <h3 className="h3 mb-3">Donde la seguridad se convierte en una aliada del desarrollo, acelerando la innovación y protegiendo tus activos digitales...</h3>
-                <p className="text-xl text-gray-600">DevSecOps no solo fortalece la seguridad de las aplicaciones, sino que también impulsa la eficiencia operativa y promueve una cultura de colaboración y mejora continua en toda la organización, lo que puede tener un impacto positivo en la competitividad y el éxito a largo plazo.</p>
+                <h3 className="h3 mb-3">Donde la seguridad se convierte en una aliada del desarrollo...</h3>
+                <p className="text-xl text-gray-600">DevSecOps no solo fortalece la seguridad de las aplicaciones, sino que también impulsa la eficiencia operativa y promueve una cultura de colaboración y mejora continua en toda la organización.</p>
               </div>
               {/* Tabs buttons */}
               <div className="mb-8 md:mb-0">
