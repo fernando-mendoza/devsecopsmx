@@ -31,8 +31,8 @@ export default function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Headless CMS</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Code analysis</h4>
+              <p className="text-gray-600 text-center">With Zulunity services, you will be forewarned and forearmed. Automated code security examination helps us identify potential security vulnerabilities in the code at the earliest development stage possible and safeguard you from the risk of security breaches and data compromises.</p>
             </div>
 
             {/* 2nd item */}
@@ -47,8 +47,8 @@ export default function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Headless CMS</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Change management</h4>
+              <p className="text-gray-600 text-center">We apply a systematic approach for all modifications to the codebase, infrastructure, or processes in the software development life cycle. Changes are implemented smoothly and do not disrupt the stability of the system. </p>
             </div>
 
             {/* 3rd item */}
@@ -64,8 +64,8 @@ export default function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Headless CMS</h4>
-              <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Investigating security threats</h4>
+              <p className="text-gray-600 text-center">Security is not a one-day task but a proactive and continuous monitoring process. Swift incident response, thorough root cause analysis, and cross-functional collaboration are our advantages over possible security concerns.</p>
             </div>
 
             {/* 4th item */}
