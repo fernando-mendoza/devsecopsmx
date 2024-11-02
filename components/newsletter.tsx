@@ -38,7 +38,7 @@ export default function Newsletter() {
               {/* CTA content */}
               <div className="text-center lg:text-left lg:max-w-xl">
                 <h3 className="h3 text-white mb-2">Want more tutorials & guides?</h3>
-                <p className="text-gray-300 text-lg mb-6">Lorem ipsum dolor sit amet consectetur adipisicing elit nemo expedita voluptas culpa sapiente.</p>
+                <p className="text-gray-300 text-lg mb-6">Zulunity provides reliable DevSecOps solutions that seamlessly incorporate security practices into every phase of the software delivery lifecycle, ensuring not just protection, but resilience. Explore how we assist organizations with leveling up on security maturity levels.</p>
 
                 {/* CTA form */}
                 <form className="w-full lg:w-auto">
