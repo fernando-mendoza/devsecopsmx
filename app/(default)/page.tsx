@@ -1,6 +1,6 @@
 export const metadata = {
-  title: 'Home - Simple',
-  description: 'Page description',
+  title: 'Servicios de consultoría DevSecOps en Mexico',
+  description: 'DevSecOps Mexico - Servicios de consultoría DevSecOps',
 }
 
 import Hero from '@/components/hero'
