@@ -67,8 +67,8 @@ export default function FeaturesBlocks() {
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Investigating security threats</h4>
               <p className="text-gray-600 text-center">Security is not a one-day task but a proactive and continuous monitoring process. Swift incident response, thorough root cause analysis, and cross-functional collaboration are our advantages over possible security concerns.</p>
             </div>
-
-            {/* 4th item */}
+            
+            {/* 4th item
             <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
               <svg className="w-16 h-16 p-1 -mt-1 mb-2" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
                 <g fill="none" fillRule="evenodd">
@@ -83,9 +83,9 @@ export default function FeaturesBlocks() {
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Headless CMS</h4>
               <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-            </div>
+            </div> */}
 
-            {/* 5th item */}
+            {/* 5th item 
             <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
               <svg className="w-16 h-16 p-1 -mt-1 mb-2" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
                 <g fill="none" fillRule="evenodd">
@@ -99,9 +99,9 @@ export default function FeaturesBlocks() {
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Headless CMS</h4>
               <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-            </div>
+            </div> */}
 
-            {/* 6th item */}
+            {/* 6th item 
             <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
               <svg className="w-16 h-16 p-1 -mt-1 mb-2" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
                 <g fill="none" fillRule="evenodd">
@@ -114,7 +114,7 @@ export default function FeaturesBlocks() {
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Headless CMS</h4>
               <p className="text-gray-600 text-center">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-            </div>
+            </div> */}
 
           </div>
 
