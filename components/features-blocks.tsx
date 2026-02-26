@@ -27,11 +27,11 @@ export default function FeaturesBlocks() {
                     <path className="stroke-current text-blue-300" d="M34.514 35.429l2.057 2.285h8M20.571 26.286h5.715l2.057 2.285" />
                     <path className="stroke-current text-white" d="M20.571 37.714h5.715L36.57 26.286h8" />
                     <path className="stroke-current text-blue-300" strokeLinecap="square" d="M41.143 34.286l3.428 3.428-3.428 3.429" />
-                    <path className="stroke-current text-white" strokeLinecap="square" d="M41.143 29.714l3.428-3.428-3.428-3.429" />  
+                    <path className="stroke-current text-white" strokeLinecap="square" d="M41.143 29.714l3.428-3.428-3.428-3.429" />
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">SourceCode Analysis</h4>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Análisis de Código Fuente</h4>
               <p className="text-gray-600 text-center">El análisis del código se refiere al proceso de investigar el código fuente de una aplicación en busca de vulnerabilidades y garantizar que se ajusta a las prácticas recomendadas de seguridad.</p>
             </div>
 
@@ -47,7 +47,7 @@ export default function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Change Management</h4>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Gestión de Cambios</h4>
               <p className="text-gray-600 text-center">Los equipos de software utilizan herramientas de administración de cambios para realizar un seguimiento de los cambios relacionados con el software o los requisitos, así como para administrarlos e informar sobre estos. De este modo, se evitan vulnerabilidades de seguridad involuntarias ocasionadas por los cambios en el software. </p>
             </div>
 
@@ -64,10 +64,10 @@ export default function FeaturesBlocks() {
                   </g>
                 </g>
               </svg>
-              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">IThreat Modeling</h4>
+              <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Modelado de Amenazas</h4>
               <p className="text-gray-600 text-center">Los equipos de DevSecOps investigan los problemas de seguridad que puedan surgir antes y después de desplegar la aplicación. Corrigen cualquier problema conocido y lanzan una versión actualizada de la aplicación.</p>
             </div>
-            
+
             {/* 4th item
             <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl">
               <svg className="w-16 h-16 p-1 -mt-1 mb-2" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
